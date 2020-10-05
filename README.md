@@ -10,7 +10,7 @@ It is sample program.
 - Logstash
 
 ## Install
-### Image Build and Run.
+### Build and Run.
 ```bash
 docker-compose up -d
 ```
