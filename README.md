@@ -1,7 +1,7 @@
 SQLServer to Elasticsearch sample
 ====
 
-It is sample program.
+This is sample program.
 
 ## Dependencies
 - SQLServer
